@@ -1,0 +1,25 @@
+feature, score
+sa_avg_apply_amount_pos,825
+sa_over4k_amount_rate_pos,754
+sa_pos_appr_rate_pos,737
+sa_avg_tcprice_pos,730
+cus_age,662
+max_instalment_pos,657
+max_credit_pos,617
+pos_credit,607
+max_hist_cpd_pos,384
+pos_sales_commission,373
+pos_dd_fail_ratio,355
+pos_total_delay_day_cnt,353
+sa_avg_payment_num_pos,347
+pos_due_periods_ratio,266
+pos_on_time_pay_cnt,242
+pos_dd_fail_cnt,231
+dd2_pos,226
+pos_period_cnt,223
+pos_finished_periods_cnt,200
+dd1_pos,192
+dd4_pos,185
+pos_in_time_pay_cnt,172
+dd3_pos,156
+dd5_pos,138
